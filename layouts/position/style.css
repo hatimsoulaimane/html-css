@@ -1,0 +1,48 @@
+div {
+    width: 100px;
+    height: 100px;
+
+}
+
+.rouge {
+    background-color: red;
+    margin-left: 45px;
+    position:fixed;
+    left:500px;
+    top: 200px;
+}
+
+.verte {
+    background-color: green;
+    position: relative;
+    left:100px;
+    top: 200px;
+
+}
+
+.rose {
+    background-color: deeppink;
+    position: absolute;
+    left: 100px;
+    bottom: 200px;
+}
+
+.jaune {
+    background-color: yellow;
+}
+
+.bleu {
+    background-color: darkblue;
+    position: fixed;
+}
+
+.teal {
+    background-color: teal;
+}
+header{
+    width:100%;
+    background-color: darkgray ;
+    height: 400px;
+    position:relative;
+
+}

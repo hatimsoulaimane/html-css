@@ -1,16 +1,110 @@
-* {box-sizing: border-box;
-
+body{
+    width: 100%;
+    height: 500%;
+}
+div{
+    width: 100%;
+    height: 500%;
 }
 
-header{
 
+.nom{
+    background-color: darkgray;
+    display: inline-block;
+    height: 50px;
+    width: 30%;
+    text-align: center;
+    position: relative;
+    bottom:20px;
+    right: 5px;
 }
-.titre1{
-    background-color: grey;
-}
-.titre2{
+
+.metiers{
     background-color: deepskyblue;
-    float: right;
+    display: inline-block;
+    height: 50px;
+    width: 30%;
+    text-align: center;
+    position: relative;
+    bottom:20px;
+    right: 5px;
 
 }
+.profil{
+    background-color: deepskyblue;
+    display: inline-block;
+    width: 30%;
+    height: 25px;
+    text-align: center;
+    position: relative;
+    bottom:20px;
+    right: 5px;
+
+}
+.contact{
+    background-color: darkgray;
+    display: inline-block;
+    width: 30%;
+    height: 25px;
+    text-align: center;
+    position: relative;
+    bottom:20px;
+    right: 5px;
+}
+.texte1{
+    background-color: darkgray;
+    display: inline-block;
+    width: 30%;
+    height: 50%;
+    position: relative;
+    bottom:20px;
+    right: 5px;
+}
+.texte2{
+    background-color: deepskyblue;
+    display: inline-block;
+    width: 30%;
+    height: 70%;
+    position: relative;
+    bottom:20px;
+    right: 5px;
+
+}
+.experiences{
+    background-color: deepskyblue;
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    position: relative;
+    bottom:20px;
+    right: 5px;
+
+}
+.competence{
+    background-color: darkgray;
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    position: relative;
+    bottom:20px;
+    right: 8px;
+}
+.texte3{
+    background-color: darkgray;
+    display: inline-block;
+    width: 30%;
+    height: 80px;
+    position: relative;
+    bottom:20px;
+    right: 8px;
+}
+.texte4{
+    background-color: deepskyblue;
+    display: inline-block;
+    width: 30%;
+    height: 80px;
+    position: relative;
+    bottom:20px;
+    right: 8px;
+
 
