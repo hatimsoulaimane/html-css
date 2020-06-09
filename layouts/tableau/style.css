@@ -1,0 +1,34 @@
+body{
+    font-family: Arial, Serif;
+}
+table{
+    border-collapse:collapse;
+    width: 40%;
+    margin-right: auto;
+}
+table, th, td{
+    border:1px black solid;
+}
+
+th{
+    height: 60px;
+    text-transform: uppercase;
+    background-color: teal;
+    font-size: 25px;
+    color: aqua;
+}
+td{
+    height: 35px;
+    text-align: center;
+    padding-left: 10px;
+}
+tr:hover{
+    background-color: red;
+}
+
+tr:nth-child(2){
+    background-color: blue;
+}
+div{
+    width:60%;
+}

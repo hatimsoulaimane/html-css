@@ -1,0 +1,18 @@
+.rouge{
+    background-color: red;
+}
+.jaune{
+    background-color: yellow;
+}
+.bleu{
+    background-color: blue;
+}
+.rose{
+    background-color: pink;
+}
+.vert{
+    background-color: green;
+}
+.flexbox{
+    display: flex;
+}

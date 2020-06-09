@@ -1,0 +1,16 @@
+* {box-sizing: border-box;
+
+}
+
+header{
+
+}
+.titre1{
+    background-color: grey;
+}
+.titre2{
+    background-color: deepskyblue;
+    float: right;
+
+}
+
