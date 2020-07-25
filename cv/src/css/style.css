@@ -1,0 +1,22 @@
+body{
+    width: 60%;
+    margin: auto;
+    background-image: url("../../src/images/programming-1009134_1920.jpg");
+}
+
+.header, .partie2{
+    background-color: lightgray;
+    border-radius: 2rem;
+    border-color: black;
+}
+.profil{
+    background-color: lightblue;
+    border-radius: 2rem;
+    border-color: black;
+}
+
+.progress{
+    width: 50%;
+margin: auto;
+}
+
